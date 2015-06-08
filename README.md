@@ -1,10 +1,10 @@
 # sugarray
 
-Android Network Library
-
 ## Description
 
-## Demo
+Android Network Library
+
+## Usage
 
 ``` Java
 // Get
